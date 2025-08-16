@@ -1,4 +1,17 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+
+# 🚀 Hey there, fellow coder!  
+
+🚪 **Knock knock...**  
+👤 *Who’s coding?*  
+💻 Not you… you’re still debugging for 3 days! 😏
+
+Welcome to my GitHub lair 👾  
+Here you’ll find a mix of:  
+- 🕹️ Fun projects  
+- 🛠️ Experiments (some successful, some... not so much 🙈)  
+- 🌌 A sprinkle of chaos & creativity powered by bugs & breakthroughs 😒
+
+✨ Explore my repos(just for kicks), and don’t forget to star the ones you like,it keeps the bugs away (well… sometimes 🐛🔥).  
 
 ###
 
@@ -19,7 +32,6 @@
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas" /></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/480/seaborn.png" height="60" alt="Seaborn" /></a>
 
   <!-- Programming Languages -->
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=c" height="60" alt="C" /></a>
