@@ -65,6 +65,7 @@ Tech: LangChain · OpenAI · Pinecone · FastAPI
 
 ---
 
+
 ## Contact
 
 If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads falling through the cracks — let's talk.
@@ -74,3 +75,16 @@ If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads f
 ---
 
 *Open to building custom AI automation systems for businesses.*
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=1D9E75&title_color=1D9E75" />
+</p>
