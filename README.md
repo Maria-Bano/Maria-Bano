@@ -101,10 +101,3 @@ If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads f
   <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maria-Bano/Maria-Bano/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maria-Bano/Maria-Bano/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Maria-Bano/Maria-Bano/output/pacman-contribution-graph.svg">
-</picture>
