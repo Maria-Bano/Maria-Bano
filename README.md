@@ -68,7 +68,7 @@ RAG chatbot trained on business data to handle objections and book calls.
 
 ## Contact
 
-If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads falling through the cracks — let's talk.
+If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads falling through the cracks , let's talk.
 
 📧 mariabano.official@gmail.com
 
@@ -77,8 +77,7 @@ If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads f
 
 ---
 
-*Open to building custom AI automation systems for businesses.*
-
+## Tech Stack
 ---
 
 ###
