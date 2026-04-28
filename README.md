@@ -71,6 +71,8 @@ RAG chatbot trained on business data to handle objections and book calls.
 If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads falling through the cracks — let's talk.
 
 📧 mariabano.official@gmail.com
+
+
 💼 https://www.linkedin.com/in/maria-bano-ai/
 
 ---
