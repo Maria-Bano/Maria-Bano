@@ -52,14 +52,24 @@ Tech: LangChain · OpenAI · Pinecone · FastAPI
 
 ## Tech Stack
 
-Vapi · ElevenLabs · OpenAI · LangChain · Twilio · n8n · Make.com · FastAPI · APIs
+<p align="left">
+<img src="https://img.shields.io/badge/Vapi-Voice%20AI-1D9E75?style=flat" />
+<img src="https://img.shields.io/badge/ElevenLabs-TTS-0F6E56?style=flat" />
+<img src="https://img.shields.io/badge/OpenAI-GPT--4-412002?style=flat" />
+<img src="https://img.shields.io/badge/LangChain-RAG-534AB7?style=flat" />
+<img src="https://img.shields.io/badge/Twilio-Communications-D85A30?style=flat" />
+<img src="https://img.shields.io/badge/n8n-Automation-BA7517?style=flat" />
+<img src="https://img.shields.io/badge/Make.com-Workflows-185FA5?style=flat" />
+<img src="https://img.shields.io/badge/Python-FastAPI-3B6D11?style=flat" />
+</p>
 
 ---
 
 ## Contact
 
-Email: [mariabano.official@gmail.com](mailto:mariabano.official@gmail.com)
-LinkedIn: https://www.linkedin.com/in/maria-bano-ai/
+If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads falling through the cracks — let's talk.
+📧 Email: [mariabano.official@gmail.com](mailto:mariabano.official@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/maria-bano-ai/
 
 ---
 
