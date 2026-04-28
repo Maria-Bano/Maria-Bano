@@ -85,20 +85,20 @@ If you're a **coach, realtor, agency, or D2C brand** and you're tired of leads f
 ###
 
 <div align="center">
-  <a href="https://vapi.ai" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /></a>
-  <img src="https://img.shields.io/badge/-Vapi-1D9E75?style=flat&logoColor=white" height="40" alt="Vapi" />
-  <img src="https://img.shields.io/badge/-ElevenLabs-0F6E56?style=flat&logo=elevenlabs&logoColor=white" height="40" alt="ElevenLabs" />
-  <img src="https://img.shields.io/badge/-OpenAI-412002?style=flat&logo=openai&logoColor=white" height="40" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/-LangChain-534AB7?style=flat&logoColor=white" height="40" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-Twilio-D85A30?style=flat&logo=twilio&logoColor=white" height="40" alt="Twilio" />
-  <img src="https://img.shields.io/badge/-n8n-BA7517?style=flat&logo=n8n&logoColor=white" height="40" alt="n8n" />
-  <img src="https://img.shields.io/badge/-Make.com-185FA5?style=flat&logoColor=white" height="40" alt="Make.com" />
-  <img src="https://img.shields.io/badge/-Pinecone-3B6D11?style=flat&logoColor=white" height="40" alt="Pinecone" />
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /></a>
+  <a href="https://vapi.ai" target="_blank"><img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logo=vapi&logoColor=white" height="40" /></a>
+  <a href="https://elevenlabs.io" target="_blank"><img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" height="40" /></a>
+  <a href="https://openai.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412002?style=for-the-badge&logo=openai&logoColor=white" height="40" /></a>
+  <a href="https://www.langchain.com" target="_blank"><img src="https://img.shields.io/badge/LangChain-534AB7?style=for-the-badge&logo=langchain&logoColor=white" height="40" /></a>
+  <a href="https://www.twilio.com" target="_blank"><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" height="40" /></a>
+  <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40" /></a>
+  <a href="https://make.com" target="_blank"><img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" height="40" /></a>
+  <a href="https://www.pinecone.io" target="_blank"><img src="https://img.shields.io/badge/Pinecone-3B6D11?style=for-the-badge&logo=pinecone&logoColor=white" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a>
 </div>
 
 ###
