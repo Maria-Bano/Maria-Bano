@@ -42,7 +42,7 @@ I design and build **AI systems that move business metrics** — not demos that 
 |--------|------------------|
 | **AI Voice Agents** | 24/7 inbound handling, qualification, and booking without adding headcount |
 | **Lead Automation Systems** | Faster outreach cycles, consistent follow-ups, fewer dropped opportunities |
-| **AI Assistants** | Instant answers grounded in business data — policies, products, and operations |
+| **AI Assistants** | Instant answers grounded in business data , policies, products, and operations |
 | **RAG Applications** | Maintainable knowledge layers that update without redeploying models |
 | **SaaS Platforms** | Multi-tenant products with auth, analytics, and production-grade workflows |
 | **Workflow Automation Systems** | End-to-end pipelines that replace manual ops across CRM, email, and APIs |
