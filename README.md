@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Maria%20Bano&fontSize=45&fontColor=ffffff&color=0:0D1117,100:1F6FEB"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 # Maria Bano
