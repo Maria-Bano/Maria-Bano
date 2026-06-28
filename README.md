@@ -182,16 +182,6 @@ I believe AI systems should:
 
 ---
 
-## Current Research
-
-* Multi-Agent Systems
-* Production LLM Evaluation
-* Long-Term Memory for AI Agents
-* Advanced RAG Architectures
-* AI Workflow Reliability
-
----
-
 ## Let's Connect
 
 If you're building:
