@@ -73,7 +73,19 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 ## Core Competencies
 
-✅ AI Automation · ✅ Voice AI · ✅ RAG Systems · ✅ SaaS Development · ✅ Workflow Engineering · ✅ CRM Integrations · ✅ API Architecture · ✅ Prompt Engineering · ✅ AI Consulting
+<div align="center">
+
+![AI Automation](https://img.shields.io/badge/AI_Automation-1F6FEB?style=for-the-badge)
+![Voice AI](https://img.shields.io/badge/Voice_AI-8957E5?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-238636?style=for-the-badge)
+![SaaS Development](https://img.shields.io/badge/SaaS_Development-EA4B71?style=for-the-badge)
+![Workflow Engineering](https://img.shields.io/badge/Workflow_Engineering-0D1117?style=for-the-badge)
+![CRM Integrations](https://img.shields.io/badge/CRM_Integrations-FF6B35?style=for-the-badge)
+![API Architecture](https://img.shields.io/badge/API_Architecture-2088FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
+![AI Consulting](https://img.shields.io/badge/AI_Consulting-16A34A?style=for-the-badge)
+
+</div>
 
 ---
 
