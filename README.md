@@ -170,20 +170,6 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-[![LeadMaster-SaaS](https://github-readme-stats.vercel.app/api/pin/?username=Maria-Bano&repo=LeadMaster-SaaS&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2)](https://github.com/Maria-Bano/LeadMaster-SaaS)
-[![AI-Voice-Receptionist](https://github-readme-stats.vercel.app/api/pin/?username=Maria-Bano&repo=AI-Voice-Receptionist&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2)](https://github.com/Maria-Bano/AI-Voice-Receptionist)
-
-[![ShopMind AI](https://github-readme-stats.vercel.app/api/pin/?username=Maria-Bano&repo=ShopMind-ai-product-recommendation-engine&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2)](https://github.com/Maria-Bano/ShopMind-ai-product-recommendation-engine)
-[![Image Caption Generator](https://github-readme-stats.vercel.app/api/pin/?username=Maria-Bano&repo=Image-Caption-Generator&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2)](https://github.com/Maria-Bano/Image-Caption-Generator)
-
-</div>
-
----
-
 ## Engineering Philosophy
 
 I believe AI systems should:
