@@ -7,7 +7,6 @@
 
 <div align="center">
 
-# Maria Bano
 
 ### AI Automation Engineer • Voice AI Architect • SaaS Builder
 
