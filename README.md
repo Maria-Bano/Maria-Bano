@@ -51,13 +51,12 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 ## Professional Experience
 
-🏢 **BreakThirty**  
-**AI Automation Engineer**  
-Architecting and deploying AI automation systems, voice workflows, and business integrations that streamline operations and customer engagement.
+### AI Automation Engineer @ BreakThirty
+Architecting and shipping AI-driven automation systems, voice workflows, and business integrations that optimize operations and customer engagement at scale.
 
-🏢 **Huzzle**  
-**AI Product Engineer**  
-Building production-grade AI products and SaaS platforms with a focus on scalable architecture and reliable AI systems.
+### AI Product Engineer @ Huzzle
+Building production-grade AI products and SaaS platforms, with a focus on system design, workflow reliability, and scalable AI infrastructure.
+
 ---
 
 ## Experience Snapshot
