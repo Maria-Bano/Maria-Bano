@@ -7,10 +7,14 @@
 
 <div align="center">
 
-
 ### AI Automation Engineer • Voice AI Architect • SaaS Builder
 
 > Designing and shipping production-grade AI systems that automate communication, customer operations, and lead generation at scale.
+
+![BreakThirty](https://img.shields.io/badge/AI_Automation_Engineer-BreakThirty-1F6FEB?style=for-the-badge)
+![Huzzle](https://img.shields.io/badge/AI_Product_Engineer-Huzzle-8957E5?style=for-the-badge)
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+production-grade+AI+systems;Voice+agents+%26+automation+platforms;AI+Solutions+for+business+operations+at+scale)](https://git.io/typing-svg)
 
@@ -43,6 +47,16 @@ I design and build **AI systems that move business metrics** — not demos that 
 | **RAG Applications** | Maintainable knowledge layers that update without redeploying models |
 | **SaaS Platforms** | Multi-tenant products with auth, analytics, and production-grade workflows |
 | **Workflow Automation Systems** | End-to-end pipelines that replace manual ops across CRM, email, and APIs |
+
+---
+
+## Professional Experience
+
+🔹 **AI Automation Engineer @ BreakThirty**  
+Building AI workflows, business automation systems, and integrations.
+
+🔹 **AI Product Engineer @ Huzzle**  
+Designing AI products, SaaS platforms, and production AI systems.
 
 ---
 
