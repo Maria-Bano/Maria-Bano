@@ -16,7 +16,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+production-grade+AI+systems;Voice+agents+%26+automation+platforms;AI+Solutions+for+business+operations+at+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Architecting+AI+Systems+for+Business+Operations;Building+Automation+Platforms+%26+Voice+Agents;Engineering+Production+AI+Products+%26+SaaS)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maria-Bano&color=58A6FF&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/Maria-Bano?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=58A6FF)
