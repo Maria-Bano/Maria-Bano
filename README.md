@@ -91,88 +91,27 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 ## Technology Stack
 
+| Domain | Technologies |
+|---------|--------------|
+| **AI & LLMs** | OpenAI · Claude · Gemini · LangChain · LlamaIndex · Pinecone |
+| **Voice AI** | Vapi · ElevenLabs · Deepgram · Twilio · WebRTC |
+| **Automation** | n8n · Make · Webhooks · REST APIs · MCP |
+| **Backend** | Python · FastAPI · Node.js · Express.js |
+| **Databases** | PostgreSQL · MongoDB · Supabase · Redis |
+| **Cloud & DevOps** | Docker · Git · GitHub Actions · Linux · Nginx |
+| **Integrations** | Gmail API · Google Sheets API · HubSpot · GoHighLevel · Stripe |
+| **Architecture** | RAG · Agentic Workflows · Event-Driven Systems · Multi-Agent Systems |
+
 <div align="center">
 
-### AI & LLMs
-
-**Models**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D4A574)
-
-**Orchestration & Memory**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-<br>
-
-### Voice AI
-
-**Telephony & Pipeline**
-
-![Vapi](https://img.shields.io/badge/Vapi-5B4FFF?style=for-the-badge)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-
-**Voice Synthesis**
-
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black)
-
-<br>
-
-### Automation & Integration
-
-**Platforms**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-
-**Protocols**
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-<br>
-
-### Backend
-
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Frameworks**
-
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-5B4FFF?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-<br>
-
-### Database & Storage
-
-**SQL / BaaS**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**NoSQL / Document**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br>
-
-### DevOps & CI/CD
-
-**Containerization**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Version Control & CI/CD**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
