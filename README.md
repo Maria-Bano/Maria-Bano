@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-bano-ai/)
 [![Email](https://img.shields.io/badge/Email-mariabano.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariabano.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/Maria-Bano?tab=repositories)
+[![Projects](https://img.shields.io/badge/Portfolio-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/Maria-Bano?tab=repositories)
 
 </div>
 
@@ -36,13 +36,13 @@
 
 ## About Me
 
-I design and build **AI systems that move business metrics** — not demos that sit in a slide deck.
+I design and build **AI systems that move business metrics** , not demos that sit in a slide deck.
 
 | System | Business Outcome |
 |--------|------------------|
 | **AI Voice Agents** | 24/7 inbound handling, qualification, and booking without adding headcount |
 | **Lead Automation Systems** | Faster outreach cycles, consistent follow-ups, fewer dropped opportunities |
-| **AI Assistants** | Instant answers grounded in business data , policies, products, and operations |
+| **AI Assistants** | Instant answers grounded in business data, policies, products, and operations |
 | **RAG Applications** | Maintainable knowledge layers that update without redeploying models |
 | **SaaS Platforms** | Multi-tenant products with auth, analytics, and production-grade workflows |
 | **Workflow Automation Systems** | End-to-end pipelines that replace manual ops across CRM, email, and APIs |
@@ -51,35 +51,36 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 ## Professional Experience
 
-### AI Automation Engineer @ BreakThirty
+### Currently · AI Automation Engineer @ BreakThirty
 Architecting and shipping AI-driven automation systems, voice workflows, and business integrations that optimize operations and customer engagement at scale.
 
-### AI Product Engineer @ Huzzle
+### Currently · AI Product Engineer @ Huzzle
 Building production-grade AI products and SaaS platforms, with a focus on system design, workflow reliability, and scalable AI infrastructure.
 
 ---
 
-## Experience Snapshot
+<div align="center">
 
-| Focus | Delivering |
-|-------|------------|
-| **AI Automation** | End-to-end workflow systems |
-| **Voice AI** | Receptionists, qualification, booking agents |
-| **AI SaaS** | Multi-tenant applications |
-| **CRM Systems** | Twilio, HubSpot, Gmail, APIs |
-| **Consulting** | Architecture, automation, integrations |
+![Voice AI](https://img.shields.io/badge/Voice_AI-Receptionists,_Booking_Agents-5B4FFF?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Lead_Generation_&_Followups-EA4B71?style=for-the-badge)
+![AI Assistants](https://img.shields.io/badge/AI_Assistants-RAG_&_Knowledge_Systems-238636?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SaaS-Outreach_Platforms-1F6FEB?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-HubSpot,_Twilio,_Gmail-FF6B35?style=for-the-badge)
+
+</div>
 
 ---
 
-## What I Build
+## Consulting & Services
 
-| Category | Examples |
-|----------|----------|
-| **Voice AI** | Receptionists, Booking Agents |
-| **Automation** | Lead Follow-up Systems |
-| **AI Assistants** | RAG and Knowledge Systems |
-| **SaaS** | Outreach Platforms |
-| **CRM** | HubSpot, Twilio, Gmail Integrations |
+**Available for consulting engagements in:**
+
+- AI Automation & Business Process Optimization
+- Voice AI Systems & Customer Operations
+- AI Product Development & SaaS Engineering
+- Workflow Architecture & System Integrations
+- RAG Applications & Knowledge Systems
+- Technical Strategy & AI Implementation
 
 ---
 
@@ -98,18 +99,6 @@ Building production-grade AI products and SaaS platforms, with a focus on system
 ![AI Consulting](https://img.shields.io/badge/AI_Consulting-16A34A?style=for-the-badge)
 
 </div>
-
----
-
-## System Design Interests
-
-* Agentic Workflows
-* Voice AI Infrastructure
-* RAG Systems
-* Event-Driven Architectures
-* API Integrations
-* Automation Platforms
-* AI SaaS Systems
 
 ---
 
@@ -192,6 +181,20 @@ I believe AI systems should:
 - **Be production-ready** — auth, error handling, observability, and clear system boundaries
 - **Scale reliably** — structured workflows and live data over brittle prompt-only logic
 - **Deliver measurable outcomes** — reply rates, coverage hours, booking accuracy, not vanity demos
+
+---
+
+---
+
+## Open to Opportunities
+
+Available for:
+
+- AI Consulting
+- Fractional AI Engineering
+- Automation Projects
+- Voice AI Systems
+- AI Product Development
 
 ---
 
