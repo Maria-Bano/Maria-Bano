@@ -20,7 +20,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maria-Bano&color=58A6FF&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/Maria-Bano?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=58A6FF)
-![GitHub Stars](https://img.shields.io/github/stars/Maria-Bano?style=for-the-badge&logo=github&label=Stars&labelColor=0D1117&color=58A6FF)
 
 ![Pakistan](https://img.shields.io/badge/Location-Pakistan_%F0%9F%87%B5%F0%9F%87%B0-0D1117?style=for-the-badge)
 ![Remote](https://img.shields.io/badge/Open_to-Remote_Opportunities-238636?style=for-the-badge)
@@ -52,12 +51,13 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 ## Professional Experience
 
-🔹 **AI Automation Engineer @ BreakThirty**  
-Building AI workflows, business automation systems, and integrations.
+🏢 **BreakThirty**  
+**AI Automation Engineer**  
+Architecting and deploying AI automation systems, voice workflows, and business integrations that streamline operations and customer engagement.
 
-🔹 **AI Product Engineer @ Huzzle**  
-Designing AI products, SaaS platforms, and production AI systems.
-
+🏢 **Huzzle**  
+**AI Product Engineer**  
+Building production-grade AI products and SaaS platforms with a focus on scalable architecture and reliable AI systems.
 ---
 
 ## Experience Snapshot
