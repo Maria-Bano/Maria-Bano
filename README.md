@@ -91,27 +91,69 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 ## Technology Stack
 
-| Domain | Technologies |
-|---------|--------------|
-| **AI & LLMs** | OpenAI · Claude · Gemini · LangChain · LlamaIndex · Pinecone |
-| **Voice AI** | Vapi · ElevenLabs · Deepgram · Twilio · WebRTC |
-| **Automation** | n8n · Make · Webhooks · REST APIs · MCP |
-| **Backend** | Python · FastAPI · Node.js · Express.js |
-| **Databases** | PostgreSQL · MongoDB · Supabase · Redis |
-| **Cloud & DevOps** | Docker · Git · GitHub Actions · Linux · Nginx |
-| **Integrations** | Gmail API · Google Sheets API · HubSpot · GoHighLevel · Stripe |
-| **Architecture** | RAG · Agentic Workflows · Event-Driven Systems · Multi-Agent Systems |
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🤖 AI & LLMs
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D4A574)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### 🎙️ Voice AI
+
 ![Vapi](https://img.shields.io/badge/Vapi-5B4FFF?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
+
+### ⚡ Automation & Integrations
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+
+### 🖥️ Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔌 APIs & Platforms
+
+![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+### 🏗️ Architecture & Systems
+
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=for-the-badge)
+![Event-Driven Systems](https://img.shields.io/badge/Event_Driven_Systems-F59E0B?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-16A34A?style=for-the-badge)
 
 </div>
 
