@@ -59,31 +59,6 @@ Building production-grade AI products and SaaS platforms, with a focus on system
 
 ---
 
-<div align="center">
-
-![Voice AI](https://img.shields.io/badge/Voice_AI-Receptionists,_Booking_Agents-5B4FFF?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Lead_Generation_&_Followups-EA4B71?style=for-the-badge)
-![AI Assistants](https://img.shields.io/badge/AI_Assistants-RAG_&_Knowledge_Systems-238636?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS-Outreach_Platforms-1F6FEB?style=for-the-badge)
-![CRM](https://img.shields.io/badge/CRM-HubSpot,_Twilio,_Gmail-FF6B35?style=for-the-badge)
-
-</div>
-
----
-
-## Consulting & Services
-
-**Available for consulting engagements in:**
-
-- AI Automation & Business Process Optimization
-- Voice AI Systems & Customer Operations
-- AI Product Development & SaaS Engineering
-- Workflow Architecture & System Integrations
-- RAG Applications & Knowledge Systems
-- Technical Strategy & AI Implementation
-
----
-
 ## Core Competencies
 
 <div align="center">
@@ -186,15 +161,14 @@ I believe AI systems should:
 
 ---
 
-## Open to Opportunities
+## Available For
 
-Available for:
-
-- AI Consulting
+- AI Consulting & Technical Strategy
 - Fractional AI Engineering
-- Automation Projects
-- Voice AI Systems
-- AI Product Development
+- Voice AI & Automation Systems
+- AI Product Development & SaaS Engineering
+- Workflow Architecture & System Integrations
+- End-to-End AI Implementation
 
 ---
 
