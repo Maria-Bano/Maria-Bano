@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Maria%20Bano&fontSize=45&fontColor=ffffff&color=0:0D1117,100:1F6FEB"/>
-</p>
-
 <div align="center">
 
 # Maria Bano
@@ -27,6 +23,8 @@
 
 </div>
 
+---
+
 ## About Me
 
 I design and build **AI systems that move business metrics** — not demos that sit in a slide deck.
@@ -40,6 +38,8 @@ I design and build **AI systems that move business metrics** — not demos that 
 | **SaaS Platforms** | Multi-tenant products with auth, analytics, and production-grade workflows |
 | **Workflow Automation Systems** | End-to-end pipelines that replace manual ops across CRM, email, and APIs |
 
+---
+
 ## Experience Snapshot
 
 | Focus | Delivering |
@@ -49,6 +49,8 @@ I design and build **AI systems that move business metrics** — not demos that 
 | **AI SaaS** | Multi-tenant applications |
 | **CRM Systems** | Twilio, HubSpot, Gmail, APIs |
 | **Consulting** | Architecture, automation, integrations |
+
+---
 
 ## What I Build
 
@@ -60,9 +62,13 @@ I design and build **AI systems that move business metrics** — not demos that 
 | **SaaS** | Outreach Platforms |
 | **CRM** | HubSpot, Twilio, Gmail Integrations |
 
+---
+
 ## Core Competencies
 
 ✅ AI Automation · ✅ Voice AI · ✅ RAG Systems · ✅ SaaS Development · ✅ Workflow Engineering · ✅ CRM Integrations · ✅ API Architecture · ✅ Prompt Engineering · ✅ AI Consulting
+
+---
 
 ## System Design Interests
 
@@ -74,29 +80,96 @@ I design and build **AI systems that move business metrics** — not demos that 
 * Automation Platforms
 * AI SaaS Systems
 
+---
+
 ## Technology Stack
 
 <div align="center">
 
+### AI & LLMs
+
+**Models**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D4A574)
+
+**Orchestration & Memory**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+<br>
+
+### Voice AI
+
+**Telephony & Pipeline**
+
 ![Vapi](https://img.shields.io/badge/Vapi-5B4FFF?style=for-the-badge)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+**Voice Synthesis**
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black)
+
+<br>
+
+### Automation & Integration
+
+**Platforms**
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+**Protocols**
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+<br>
+
+### Backend
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+<br>
+
+### Database & Storage
+
+**SQL / BaaS**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**NoSQL / Document**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br>
+
+### DevOps & CI/CD
+
+**Containerization**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Version Control & CI/CD**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
+
+---
 
 ## Featured Projects
 
@@ -110,48 +183,7 @@ I design and build **AI systems that move business metrics** — not demos that 
 
 </div>
 
-<details>
-<summary><strong>Project Details</strong></summary>
-
-### LeadMaster-SaaS
-
-AI-powered outreach platform for personalized campaigns, follow-ups, and analytics.
-
-**Stack:** React • FastAPI • Supabase • OpenAI • n8n
-
-**Impact:** Automates the entire outreach lifecycle.
-
 ---
-
-### AI-Voice-Receptionist
-
-Production-ready AI receptionist with booking workflows and knowledge retrieval.
-
-**Stack:** Vapi • n8n • RAG • APIs
-
-**Impact:** Extends customer support beyond staffed hours.
-
----
-
-### ShopMind
-
-AI recommendation engine for e-commerce personalization.
-
-**Stack:** Django • Python • Recommendation Systems
-
-**Impact:** Improves product discovery and customer engagement.
-
----
-
-### Image Caption Generator
-
-Deep learning image-to-text generation system.
-
-**Stack:** TensorFlow • VGGNet • BiLSTM
-
-**Impact:** Automates caption generation workflows.
-
-</details>
 
 ## Engineering Philosophy
 
@@ -163,18 +195,7 @@ I believe AI systems should:
 - **Scale reliably** — structured workflows and live data over brittle prompt-only logic
 - **Deliver measurable outcomes** — reply rates, coverage hours, booking accuracy, not vanity demos
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Maria-Bano&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=false" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Bano&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Maria-Bano&theme=react&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution Streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maria-Bano&theme=react&hide_border=true&bg_color=0D1117&color=58A6FF&line=30363D&point=58A6FF&area_color=16213e" alt="Activity Graph" />
-
-</div>
+---
 
 ## Current Research
 
@@ -183,6 +204,8 @@ I believe AI systems should:
 * Long-Term Memory for AI Agents
 * Advanced RAG Architectures
 * AI Workflow Reliability
+
+---
 
 ## Let's Connect
 
