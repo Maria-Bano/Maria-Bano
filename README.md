@@ -45,7 +45,14 @@ I design and build **AI systems that move business metrics** — not demos that 
 | **Workflow Automation Systems** | End-to-end pipelines that replace manual ops across CRM, email, and APIs |
 
 ---
+## Professional Experience
 
+| Company | Role | Focus |
+|---------|------|--------|
+| BreakThirty | AI Automation Engineer | AI workflows, business automation, integrations |
+| Huzzle | AI Product Engineer | AI products, SaaS systems, product engineering |
+
+---
 ## Experience Snapshot
 
 | Focus | Delivering |
